@@ -1,1 +1,1 @@
-(https://github.com/shinjixz/Final-Project)
+https://github.com/shinjixz/Final-Project.git

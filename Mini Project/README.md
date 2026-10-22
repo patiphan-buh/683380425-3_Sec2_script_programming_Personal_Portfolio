@@ -1,1 +1,1 @@
-https://github.com/peeraphatda/word-count-mini-project
+https://github.com/peeraphatda/word-count-mini-project.git
